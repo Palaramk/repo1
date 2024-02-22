@@ -1,0 +1,6 @@
+Hi
+Created a new repo
+addeda folder
+git init
+commnd git clone and 
+pasted the repo link here and working
